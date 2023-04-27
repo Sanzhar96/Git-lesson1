@@ -2,10 +2,10 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-        mainMethodNumber1();
+        mainMethodShowMessageAble();
         mainMethodShowInfo();
     }
-        private static void mainMethodNumber1(){
+        private static void mainMethodShowMessageAble(){
             System.out.println("Hello Able Academy\n");
         }
     private static void mainMethodShowInfo(){
